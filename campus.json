@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/5-EG.json#e-campus-links"
+                 "value":"..\/5-EG.json#e-campus-links"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/office-map\/5-EG.json#e-campus-rechts"
+                 "value":"..\/office-map\/5-EG.json#e-campus-rechts"
                 }],
          "type":"tilelayer",
          "visible":true,
